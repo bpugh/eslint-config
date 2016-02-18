@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/insin/eslint-config-jonnybuchanan.git"
+    "url": "https://github.com/bpugh/eslint-config.git"
   },
   "keywords": [
     "eslint",
